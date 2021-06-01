@@ -12,6 +12,5 @@ Goals:
   6. Include a button to start/restart the game.
   7. Add a display element that congratulates the winning player.
   
-Bonus Goals:
-  1. Add an AI so that a player can play against the computer!
+
   
